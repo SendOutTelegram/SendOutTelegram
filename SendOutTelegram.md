@@ -1,4 +1,4 @@
-This is a simple explanation on how an automated telegram service works. 
+This is a simple explanation on how an automated telegram service works.
 You may have heard about these services before, but what exactly do they do? 
 What makes them different than regular text messaging services?
  Let's take a look!
