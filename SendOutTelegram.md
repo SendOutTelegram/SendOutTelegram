@@ -77,4 +77,3 @@ Why advertise on Telegram?
  You can also view the latest news and recent activities.
 
  Reach out on Telegram t.me/SendOutTelegram to ask questions or purchase.
- SendOutTelegram@writeme.com
